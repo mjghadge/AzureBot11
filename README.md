@@ -1,4 +1,4 @@
-# 01EchoBot
+# EchoBot
 
 Bot in Teams sample
 
